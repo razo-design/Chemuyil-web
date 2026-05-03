@@ -9,7 +9,7 @@ import AnimatedSection from './AnimatedSection'
 
 const images = [
   {
-    src: 'https://images.unsplash.com/photo-1566438480900-0609be27a4be?q=80&w=1200&auto=format&fit=crop',
+    src: 'https://images.unsplash.com/photo-1683914791868-69e86700fee1?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     alt: 'Tropical luxury pool',
     span: 'lg:col-span-2 lg:row-span-2',
   },
