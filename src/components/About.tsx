@@ -28,7 +28,7 @@ export default function About() {
               {/* Main image */}
               <div className="relative aspect-[4/5] overflow-hidden">
                 <Image
-                  src="https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=1200&auto=format&fit=crop"
+                  src="https://images.unsplash.com/photo-1750967613810-b01ea0a907fb?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                   alt="Chemuyil Residencial luxury development"
                   fill
                   sizes="(max-width: 1024px) 100vw, 50vw"
