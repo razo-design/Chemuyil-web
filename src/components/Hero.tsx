@@ -20,7 +20,7 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <Image
-          src="https://images.unsplash.com/photo-1505118380757-91f5f5632de0?q=85&w=2400&auto=format&fit=crop"
+          src="https://unsplash.com/es/fotos/tortuga-marron-en-el-agua-durante-el-dia-M8xxVih_V_U"
           alt="Tulum tropical landscape"
           fill
           priority
