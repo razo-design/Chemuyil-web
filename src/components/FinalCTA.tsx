@@ -24,7 +24,7 @@ export default function FinalCTA() {
           className="object-cover object-center"
           loading="lazy"
         />
-        <div className="absolute inset-0 bg-gradient-to-br from-forest-dark/92 via-forest-dark/85 to-forest/90" />
+        <div className="absolute inset-0 bg-gradient-to-br from-forest-dark/97 via-forest-dark/85 to-forest/90" />
       </div>
 
       {/* Decorative elements */}
